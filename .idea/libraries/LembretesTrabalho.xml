@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LembretesTrabalho">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LembretesTrabalho/app/LembretesTrabalho.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+LEMBRETES DE TRABALHO
+=====================
+
+NÃO precisa instalar Java: o programa já leva o Java dele na pasta "runtime".
+
+1. Extraia o .zip inteiro (botão direito > Extrair tudo...). Não abra de dentro do .zip.
+   Sugestão: coloque a pasta em C:\LembretesTrabalho
+2. Dê dois cliques em LembretesTrabalho.exe
+   - Se o Windows mostrar "O Windows protegeu o computador", clique em
+     "Mais informações" > "Executar assim mesmo" (o .exe não tem assinatura digital).
+3. Ao fechar a janela, o programa continua rodando no ícone perto do relógio.
+   Para encerrar: botão direito no ícone > Sair.
+4. Opcional: iniciar_com_windows.bat faz ele abrir sozinho (minimizado) ao ligar o PC.
+   Rode de novo se mudar a pasta de lugar.
+
+Os dados ficam em: %USERPROFILE%\LembretesTrabalho\dados.bin  (copie para backup)
+
+A pasta codigo-fonte tem o código Java, caso queira alterar.
